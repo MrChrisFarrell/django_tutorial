@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.swp
+*.bak
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+myenv/
+.venv/
+.venv*
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Django specific
+# Static and media file directories (adjust names as needed)
+static_cdn/
+media_cdn/
+
+# Local settings (if you keep them separate)
+local_settings.py
+
+# Testing and coverage
+.coverage
+htmlcov/
